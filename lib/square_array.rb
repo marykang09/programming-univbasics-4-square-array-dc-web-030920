@@ -7,3 +7,14 @@ def square_array(array)
   end
   return new_array
   end
+
+def square_array(array)
+  i = 0
+  new_array = []
+  while array < array.length do
+    new_array << i**2
+  end
+
+  end
+
+end
