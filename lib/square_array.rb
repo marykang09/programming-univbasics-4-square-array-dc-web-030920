@@ -3,6 +3,7 @@ def square_array
   new_array = []
   while array[counter] do
     new_array << number**
+    counter += 1
   end
   end
 end
