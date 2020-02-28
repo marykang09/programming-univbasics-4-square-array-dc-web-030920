@@ -6,4 +6,3 @@ def square_array
     counter += 1
   end
   end
-end
