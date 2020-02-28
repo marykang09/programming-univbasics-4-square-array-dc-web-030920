@@ -1,3 +1,6 @@
 def square_array(array)
-  # your code here
+  counter = 0
+  while array < array.length do
+    new_array = [number**]
+  end
 end
