@@ -14,7 +14,7 @@ def square_array(array)
   while array < array.length do
     new_array << i**2
   end
-
+  new_array
   end
 
 end
